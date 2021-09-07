@@ -351,7 +351,7 @@ template {
 /* ============================================= */
 * {
   font-family: 'Lato', sans-serif;
-  color: $headline-secondary;
+  color: #777;
   box-sizing: border-box;
 }
 
@@ -373,7 +373,7 @@ a {
 
 .headline-secondary {
   font-weight: 300;
-  color: $headline-secondary;
+  color: #777;
 }
 
 .link {
@@ -424,7 +424,7 @@ a {
 }
 
 .warning {
-  background-color: $background-color2;
+  background-color: #fd7856;
 }
 
 /* ============================================= */
@@ -530,11 +530,11 @@ a {
 }
 
 .theme.col-2 {
-  background-color: $background-color2;
+  background-color: #fd7856;
 }
 
 .theme.col-3 {
-  background-color: $background-color3;
+  background-color: #deb2ee;
 }
 
 .theme.col-4 {

@@ -22,6 +22,9 @@
 
 .info {
   background-color: $background-color1;
+  &:hover {
+    @include color-light($background-color1);
+  }
 }
 
 .success {
