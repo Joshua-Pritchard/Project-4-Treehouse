@@ -1,1 +1,3 @@
-
+@mixin color-light($background-color1: 65%) {
+  background-color: lighten($background-color1);
+}
